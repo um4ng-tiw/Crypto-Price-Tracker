@@ -19,10 +19,6 @@
   margin-bottom: 10px;
 }
 
-.icon:hover {
-  cursor: pointer;
-}
-
 .footer_text {
   flex-direction: column;
   justify-content: center;

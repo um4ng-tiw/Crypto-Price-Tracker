@@ -14,7 +14,7 @@ const Coin = ({ coin }) => {
           <h1 className={styles.coin_name}>{coin.name}</h1>
           <p className={styles.coin_ticker}>{coin.symbol}</p>
           <p className={styles.coin_current}>
-            ₹ {coin.market_data.current_price.inr}
+            ₹ {coin.market_data.current_price.inr.toLocaleString()}
           </p>
         </div>
       </div>
