@@ -53,3 +53,5 @@ Contributions are what make the open source community such an amazing place to b
 [2-gif]: ./Screenshots/4.gif
 [linkedin]:https://www.linkedin.com/in/umang-tiwari-bb9781193/
 [instagram]:https://www.instagram.com/oxy.moronguy/
+[instagram-shield]:https://img.shields.io/badge/-instagram-E4405E?logo=instagram&logoColor=white&style=for-the-badge
+[linkedin-shield]: https://img.shields.io/badge/-linkedin-0078B6?logo=linkedin&logoColor=white&style=for-the-badge
